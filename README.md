@@ -159,7 +159,8 @@ yarn dev
 
 ### 打赏
 
-![打赏](/assets/donation/wechat_pay.jpg)
+![微信打赏](/assets/donation/wechatpay_donate.jpg)
+![支付宝打赏](/assets/donation/alipay_donate.jpg)
 
 ### 交流
 
