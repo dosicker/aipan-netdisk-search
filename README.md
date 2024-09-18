@@ -159,8 +159,12 @@ yarn dev
 
 ### 打赏
 
-![微信打赏](/assets/donation/wechatpay_donate.jpg)
-![支付宝打赏](/assets/donation/alipay_donate.jpg)
+<p>
+  <img src="./assets/donation/wechatpay_donate.jpg" alt="微信打赏" width="350" />
+  <img src="./assets/donation/alipay_donate.jpg" alt="支付宝打赏" width="350" />
+</p>
+<!-- ![微信打赏](/assets/donation/wechatpay_donate.jpg)
+![支付宝打赏](/assets/donation/alipay_donate.jpg) -->
 
 ### 交流
 
